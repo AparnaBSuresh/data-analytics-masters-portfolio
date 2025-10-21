@@ -54,7 +54,7 @@ Jul 2015 – Apr 2018
 - Created an NLP-based system using PyTorch and the OpenAI API to analyze large-scale patent data.
 - Built interactive dashboards for insight extraction and product innovation strategy.
 
-### 📰 [New York Times Sentiment Prediction](./DataBaseSystems/NewYorkTimes_Analysis)
+### 📰 [New York Times Sentiment Prediction](./DatabaseSystems/NewYorkTimes_Analysis)
 
 - Built a sentiment analysis model to classify article tone using livestream data from the NYT.
 - Developed a full pipeline using AWS, Apache Airflow, dbt, and Snowflake as the central data warehouse.
