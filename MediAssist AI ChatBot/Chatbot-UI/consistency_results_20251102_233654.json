@@ -1,0 +1,82 @@
+{
+  "test_date": "2025-11-02T23:36:54.636867",
+  "query": "What are the common symptoms of diabetes?",
+  "trials": 5,
+  "results": [
+    {
+      "trial": 1,
+      "word_count": 36,
+      "char_count": 239,
+      "sections_found": 0,
+      "sections_detail": {
+        "Understanding": false,
+        "Causes": false,
+        "Self-Care": false,
+        "Warning": false,
+        "Doctor": false,
+        "Disclaimer": false
+      }
+    },
+    {
+      "trial": 2,
+      "word_count": 29,
+      "char_count": 198,
+      "sections_found": 0,
+      "sections_detail": {
+        "Understanding": false,
+        "Causes": false,
+        "Self-Care": false,
+        "Warning": false,
+        "Doctor": false,
+        "Disclaimer": false
+      }
+    },
+    {
+      "trial": 3,
+      "word_count": 39,
+      "char_count": 274,
+      "sections_found": 0,
+      "sections_detail": {
+        "Understanding": false,
+        "Causes": false,
+        "Self-Care": false,
+        "Warning": false,
+        "Doctor": false,
+        "Disclaimer": false
+      }
+    },
+    {
+      "trial": 4,
+      "word_count": 51,
+      "char_count": 332,
+      "sections_found": 1,
+      "sections_detail": {
+        "Understanding": true,
+        "Causes": false,
+        "Self-Care": false,
+        "Warning": false,
+        "Doctor": false,
+        "Disclaimer": false
+      }
+    },
+    {
+      "trial": 5,
+      "word_count": 25,
+      "char_count": 158,
+      "sections_found": 0,
+      "sections_detail": {
+        "Understanding": false,
+        "Causes": false,
+        "Self-Care": false,
+        "Warning": false,
+        "Doctor": false,
+        "Disclaimer": false
+      }
+    }
+  ],
+  "summary": {
+    "avg_word_count": 36,
+    "word_variance": 10.04987562112089,
+    "consistency_score": 72.08367883021975
+  }
+}

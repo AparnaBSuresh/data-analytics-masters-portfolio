@@ -1,0 +1,66 @@
+{
+  "test_date": "2025-11-02T23:38:30.813708",
+  "results": [
+    {
+      "department": "Cardiology",
+      "response_time": 18.430329084396362,
+      "response_length": 49,
+      "department_context_present": false,
+      "success": true
+    },
+    {
+      "department": "Emergency Medicine",
+      "response_time": 6.587363958358765,
+      "response_length": 25,
+      "department_context_present": false,
+      "success": true
+    },
+    {
+      "department": "Internal Medicine",
+      "response_time": 7.010071039199829,
+      "response_length": 28,
+      "department_context_present": false,
+      "success": true
+    },
+    {
+      "department": "Neurology",
+      "response_time": 6.894059419631958,
+      "response_length": 22,
+      "department_context_present": false,
+      "success": true
+    },
+    {
+      "department": "Oncology",
+      "response_time": 13.601685047149658,
+      "response_length": 49,
+      "department_context_present": false,
+      "success": true
+    },
+    {
+      "department": "Surgery",
+      "response_time": 9.501094818115234,
+      "response_length": 32,
+      "department_context_present": false,
+      "success": true
+    },
+    {
+      "department": "Psychiatry",
+      "response_time": 6.581326484680176,
+      "response_length": 24,
+      "department_context_present": false,
+      "success": true
+    },
+    {
+      "department": "Radiology",
+      "response_time": 19.556570768356323,
+      "response_length": 60,
+      "department_context_present": false,
+      "success": true
+    }
+  ],
+  "summary": {
+    "total_departments": 8,
+    "successful": 8,
+    "success_rate": 100.0
+  }
+}
