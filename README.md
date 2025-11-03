@@ -32,7 +32,7 @@ Jul 2015 – Apr 2018
 
 ## 💼 Key Projects
 
-### 🧬 [Generative AI Healthcare Agents](./Generative%20AI%20Healthcare%20Agents)
+### 🧬 [MediAssist AI ChatBot](./MediAssist AI ChatBot)
 
 - Designed and fine-tuned LLM-powered chatbots for wellness applications using NLP and deep learning.
 - Implemented Retrieval-Augmented Generation (RAG) pipelines to ensure accurate, explainable healthcare responses.
