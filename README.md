@@ -32,7 +32,7 @@ Jul 2015 – Apr 2018
 
 ## 💼 Key Projects
 
-### 🧬 [MediAssist AI ChatBot] (./MediAssist AI ChatBot)
+### 🧬 [MediAssist AI ChatBot](./MediAssist%20AI%20ChatBot)
 
 - Designed and fine-tuned LLM-powered chatbots for wellness applications using NLP and deep learning.
 - Implemented Retrieval-Augmented Generation (RAG) pipelines to ensure accurate, explainable healthcare responses.
